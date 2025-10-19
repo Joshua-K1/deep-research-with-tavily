@@ -1,0 +1,17 @@
+bedrock-agentcore
+uvicorn[standard]
+strands-agents
+bedrock-agentcore-starter-toolkit
+langgraph>=0.2.6
+langchain>=0.3.19
+langchain-google-genai
+python-dotenv>=1.0.1
+langgraph-sdk>=0.1.57
+langgraph-cli
+langgraph-api
+fastapi
+langchain-community
+langchain-aws
+fastapi
+langchain-openai
+qstash
